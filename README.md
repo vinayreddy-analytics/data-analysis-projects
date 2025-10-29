@@ -44,7 +44,7 @@ Going forward, I’ll be adding:
 ## 🧑‍💻 Author
 
 **Vinay Reddy Thudi**  
-🎓 MSc Data Analysis for Business Intelligence — *University of Leicester*  
+🎓 MSc Data Analysis for Business Intelligence at *University of Leicester*  
 📍 Leicester, United Kingdom  
 
 🔗 [GitHub Profile](https://github.com/vinayreddy-analytics)  
@@ -55,8 +55,8 @@ Going forward, I’ll be adding:
 ## 💬 Feedback
 
 I’m always open to feedback, collaboration ideas, and new datasets to explore.  
-If you’d like to discuss data visualization, BI, or analytics workflows — feel free to connect or drop a message!
+If you’d like to discuss data visualization, BI, or analytics workflows, feel free to connect or drop a message!
 
 ---
 
-> *“Data tells stories and I’m here to make those stories meaningful.”*
+> *“Data tells stories and I’m here to make those stories meaningful and intresting.”*
