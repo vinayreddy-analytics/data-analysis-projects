@@ -141,6 +141,7 @@ EDA was performed using **Pandas**, **Matplotlib**, and **Seaborn**.
 |------|--------------|
 | `Googleplaystoredata.ipynb` | Jupyter Notebook containing full EDA and visualizations |
 | `README.md` | Documentation of the project |
+| `googleplaystoredataset.csv` | Dataset |
 
 ---
 
